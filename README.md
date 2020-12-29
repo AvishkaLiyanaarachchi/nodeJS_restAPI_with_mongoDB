@@ -17,8 +17,12 @@ Technical details
 
 - Client login details
 1. /posts - Fetch all data from database - (GET)
+2. /posts/ID - Fetch data by ID from database - (GET)
+3. /posts - Insert data to the database - (POST)
+4. /posts/ID - Update data from database - (PATCH)
+5. /posts/ID - Delete data from database - (DELETE)
 
 |   |     |
 | ------------- |:-------------:| 
-| <img src="Images/Fetch all data.PNG"><br><b>Login Page</b>|
+| <img src="Images/Fetch all data.PNG"><br><b>Fetch data image</b>| <img src="Images/Fetch data by ID.PNG"><br><b>Fetch data by ID image</b>| 
 
