@@ -20,5 +20,5 @@ Technical details
 
 |   |     |
 | ------------- |:-------------:| 
-| <img src="FronentImages/loginpage.PNG">
+| <img src="Images/Fetch all data.PNG"><br><b>Login Page</b>|
 
