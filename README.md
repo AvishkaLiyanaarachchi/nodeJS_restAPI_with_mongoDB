@@ -9,7 +9,7 @@
 
 3.npm start
 
-4.open the browser and type http://localhost:3000/( End point name)
+4.open the browser and type http://localhost:3000/ ( End point name)
 
 ## Technical details
 
