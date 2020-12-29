@@ -25,5 +25,8 @@ Technical details
 |   |     |
 | ------------- |:-------------:| 
 | <img src="Images/Fetch all data.PNG"><br><b>Fetch data</b>| <img src="Images/Fetch data by ID.PNG"><br><b>Fetch data by ID</b>|
-| <img src="Images/insert data to mongoDB.PNG"><br><b>Insert data</b>| <img src="Images/inserted data.PNG"><br><b>Insert data mongoDB</b>|
+| <img src="Images/insert data to mongoDB.PNG"><br><b>Insert data</b>| <img src="Images/inserted data.PNG"><br><b>Insert data to mongoDB</b>|
+
+| <img src="Images/update data by ID.PNG"><br><b>Update data</b>| <img src="Images/update data.PNG"><br><b>Update data to mongoDB</b>|
+
 
