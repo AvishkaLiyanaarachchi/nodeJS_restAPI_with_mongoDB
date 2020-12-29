@@ -1,5 +1,5 @@
 
-# node js rest API 
+# Node.js rest API 
 
 ## Steps
 
@@ -13,7 +13,7 @@
 
 ## Technical details
 
-1. node js
+1. Node.js
 2. mongoDB cloud(https://account.mongodb.com/account/login?nds=true)
 
    login details
