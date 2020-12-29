@@ -13,6 +13,11 @@ Technical details
    
 3. IDE:- Visual Studio Code
 
+# End points 
+
+- Client login details
+1. /posts - Fetch all data from database - (GET)
+
 |   |     |
 | ------------- |:-------------:| 
 | <img src="FronentImages/loginpage.PNG">
