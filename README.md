@@ -1,7 +1,13 @@
 
 # node js rest API 
 
-Technical details
+##Steps
+1.Clone the project
+2. npm install
+3.npm start
+4.open the browser and type http://localhost:3000/(End point name)
+
+##Technical details
 
 1. node js
 2. mongoDB cloud(https://account.mongodb.com/account/login?nds=true)
@@ -13,7 +19,7 @@ Technical details
    
 3. IDE:- Visual Studio Code
 
-# End points 
+## End points 
 
 - Client login details
 1. /posts - Fetch all data from database - (GET)
